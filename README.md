@@ -27,6 +27,10 @@ Unity'de yeniyseniz bu tarz projeler sizin için faydalı bir klavuz olabilir.
 
 PS: Proje **MIT Lisansı** ile sunulmuştur ve dilediğiniz gibi kullanıma açıktır. Değişiklik yapabilir, geliştirebilir ve ticari olarak kullanabilirsiniz. Tek beklentim ve isteğim telif hakkı kısmındaki isimleri silmemeniz. Emeğe saygı anlayışınıza güvenerek bu tarz projeleri yayınlıyorum.
 
+### Picture
+
+![Billiard](https://i.ibb.co/H7rDdPv/bilardo.png)
+
 ### Links
 
 [Youtube](#) 
@@ -35,7 +39,7 @@ PS: Proje **MIT Lisansı** ile sunulmuştur ve dilediğiniz gibi kullanıma aç�
 
 [GooglePlaystore](#)
 
-`#reclast #reclastgamestudio #reclasttv #indie #bağımsız #oyun #BilliardGame #bilardooyun`
+`#reclast #umiteskistudio #reclasttv #indie #bağımsız #oyun #BilliardGame #bilardooyun`
 
 ![Github](https://img.shields.io/github/followers/RecLast?style=social) - ![Twitter](https://img.shields.io/twitter/follow/RecLastTV?style=social) - ![Youtube](https://img.shields.io/youtube/views/R15MQj-RHUo?style=social) - ![Twitch](https://img.shields.io/twitch/status/RecLastTV?style=social)
 
